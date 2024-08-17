@@ -14,4 +14,5 @@ module.exports = {
       template: "./src/template.html",
     }),
   ],
+  devtool: "eval-source-map",
 };
